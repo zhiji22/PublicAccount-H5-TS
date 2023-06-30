@@ -1,10 +1,3 @@
-<!--
- * @Description: 
- * @Author: wanghong
- * @Date: 2023-06-25 09:11:43
- * @LastEditors: Please set LastEditors
- * @LastEditTime: 2023-06-29 17:27:06
--->
 <template>
   <div class="container">
     <div class="bg-img">

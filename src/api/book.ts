@@ -1,5 +1,6 @@
 import request from '../utils/request.js';
 
+
 /**
  * 获取字典数据
  * @param Object data  字典类型
